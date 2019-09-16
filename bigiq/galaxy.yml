@@ -1,0 +1,16 @@
+namespace: f5
+name: bigiq
+version: 1.0.0
+readme: null
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies:
+  ansible.network: '>=1.0'
+  f5.common: '>=1.0'
+repository: git@github.com:ansible-collections/f5.bigiq.git
+documentation: null
+homepage: null
+issues: null
